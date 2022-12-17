@@ -53,7 +53,8 @@ body {
   width: 24px;
 }
 
-.header_container {
+.header_container,
+.container {
   max-width: 1172px;
   padding: 0 15px;
   margin: 0 auto;
